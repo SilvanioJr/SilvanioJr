@@ -1,4 +1,4 @@
-### Olá! Eu sou o Silvanio Junior
+### Olá, eu sou Silvanio Junior
 
 - 🔭 
 - 🌱 Atualmente estou estudando Java e JavaScript
