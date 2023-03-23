@@ -1,7 +1,7 @@
 ### Olá, eu sou Silvanio Junior
 
-- 🔭 
-- 🌱 Atualmente estou estudando Java e JavaScript
+- 🔭 Atualmente estou à procura de estágio
+- 🌱 Atualmente estou aprendendo Node.js, JavaScript, TypeScript
 - 📫 Contate-me no email: silvaniomotajunior@gmail.com
 - 😄 Pronouns: ele/dele
 
