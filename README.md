@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Silvanio Junior
 
-- 🔭 A procura do primeiro emprego
+- 🔭 
 - 🌱 Atualmente estou estudando Java e JavaScript
 - 📫 Contate-me no email: silvaniomotajunior@gmail.com
 - 😄 Pronouns: ele/dele
@@ -20,6 +20,10 @@
   </div>
           
 ##
- 
+
+<div>
+  <a href="https://www.linkedin.com/in/silvanio-junior" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+   
           
   
