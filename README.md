@@ -1,9 +1,7 @@
 ### Olá, eu sou Silvanio Junior
 
 - 🔭 Atualmente estou à procura de estágio.
-- 🌱 Atualmente estou aprendendo Node.js/JavaScript
 - 📫 Contate-me no email: silvaniomotajunior@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://beacons.ai/silvaniojunior">
