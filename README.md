@@ -1,7 +1,5 @@
 ### Olá, eu sou Silvanio Junior
 
-- 🔭 Atualmente estou à procura de estágio.
-- 📫 Contate-me no email: silvaniomotajunior@gmail.com
 
 <div>
   <a href="https://beacons.ai/silvaniojunior">
