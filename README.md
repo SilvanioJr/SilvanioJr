@@ -1,6 +1,6 @@
 ### Olá, eu sou Silvanio Junior
 
-- 🔭 Atualmente estou à procura de estágio.
+- 🔭 Atualmente estou à procura de uma oportunidade como desenvolvedor.
 - 🌱 Atualmente estou aprendendo Java.
 - 📫 Contate-me no email: silvaniomotajunior@gmail.com
 
